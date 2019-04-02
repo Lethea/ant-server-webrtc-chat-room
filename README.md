@@ -81,6 +81,11 @@ Login Page
 ![Room Page](https://image.prntscr.com/image/v41IqySTTsiAFggs17OP4Q.png)
 
 
+Note
+-------------
+For proxy pass you can use nginx as well
+
+
 Contact
 ------------
 ````
