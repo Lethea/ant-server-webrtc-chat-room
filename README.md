@@ -93,6 +93,7 @@ Features
 - [x] Play / Publish Implementation
 - [x] PeerConnection / Icecandidate etc webrtc stuff implemented
 - [x] Text Chat
+- [ ] Ant Api Implementation for local user must be changed
 - [ ] Token Play / Publish
 - [ ] External Player Link For Hls Playback
 - [ ] Typo Control
