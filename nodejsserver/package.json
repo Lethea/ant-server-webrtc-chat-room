@@ -1,0 +1,29 @@
+{
+  "name": "antvideochat",
+  "version": "1.0.0",
+  "description": "Ant Media Server Group Call Sample",
+  "main": "videochat.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lethea/ant-server-webrtc-chat-room.git"
+  },
+  "keywords": [
+    "ant",
+    "video",
+    "chat"
+  ],
+  "author": "Emre Karataşoğlu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lethea/ant-server-webrtc-chat-room/issues"
+  },
+  "homepage": "https://github.com/Lethea/ant-server-webrtc-chat-room#readme"
+}
