@@ -1,6 +1,8 @@
 # ant-server-webrtc-chat-room
 This is n to n video chat room for ant media server. 
 
+This is webrtc group chat sample application  that using Ant Media Server as SFU
+
 Ant Media server installation
 ---------------------------------
 Download the ant media server from [ANT MEDIA SERVER]
