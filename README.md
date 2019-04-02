@@ -97,6 +97,8 @@ Features
 - [x] Play / Publish Implementation
 - [x] PeerConnection / Icecandidate etc webrtc stuff implemented
 - [x] Text Chat
+- [ ] Selecting Camera / Microphone
+- [ ] Publish Stream Button ( Now starting automatically )
 - [ ] Ant Api Implementation for local user must be changed
 - [ ] Token Play / Publish
 - [ ] External Player Link For Hls Playback
