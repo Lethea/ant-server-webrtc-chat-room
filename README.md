@@ -33,7 +33,11 @@ git clone git@github.com:Lethea/ant-server-webrtc-chat-room.git
 
 On Nodejs Server Run Following Command
 ```
-npm install
+
+npm install --save express
+
+npm install --save socket.io
+
 ```
 
 CONFIGURATION
