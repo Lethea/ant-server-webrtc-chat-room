@@ -1,0 +1,175 @@
+/*******************/
+/*     Buttons     */
+/*******************/
+
+.button {
+    padding: 10px 45px;
+    font-size: 20px;
+    color: black;
+    background-color: #3385ff;
+    border: 2px solid #002966;
+    border-radius: 3px;
+    position: fixed;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+}
+
+.button:hover {
+    background-color: #b3d1ff;
+    border: 2px solid #0047b3;
+}
+
+
+
+/**********************/
+/*     User Input     */
+/**********************/
+
+.inputArea1 {
+    text-align: center;
+    width: 380px;
+    height: 50px;
+    padding: 5px 10px;
+    background-color: #80b3ff;
+    border: 2px solid #002966;
+    font-size: 22px;
+    position: fixed;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+}
+
+.inputArea2 {
+    border-radius: 3px;
+    background-color: #80b3ff;
+    border: 2px solid #002966;
+    resize: none;
+    font-size: 16px;
+}
+
+
+/*******************************/
+/*     Log-In Area Styling     */
+/*******************************/
+
+#loginArea {
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#loginMessage {
+    font-size: 30px;
+}
+
+
+/***********************/
+/*     Chat Styling    */
+/***********************/
+
+.chatMessage {
+    font-size: 16px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-color: #80b3ff;
+    border: 2px solid #002966;
+    border-radius: 5px;
+    width: 97%;
+}
+
+.chatMessage:hover {
+    background-color: #9f9fdf;
+    border: 2px solid #3939ac;
+}
+
+.systemMessage {
+    font-size: 16px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-color: #cce6ff;
+    border: 1px dashed #80bfff;
+    border-radius: 5px;
+    width: 97%;
+}
+
+.systemMessage:hover {
+    background-color: #e6f2ff;
+    border: 1px dashed #b3d7ff;
+}
+
+.userList {
+    font-size: 16px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    background-color: #b3d1ff;
+    border-bottom: 2px solid #80b3ff;
+}
+
+.customForm {
+    padding-left: 15px;
+}
+
+#chatroomHeader {
+    border-radius: 5px;
+    border: 2px solid #80b3ff;
+    background-color: #b3d1ff;
+}
+
+#chat {
+    padding-left: 20px;
+    height: 50vh;
+    overflow-y: scroll;
+    border-radius: 5px;
+    border: 2px solid #80b3ff;
+    background-color: #b3d1ff;
+}
+
+
+
+/*****************************/
+/*     Chat's Scroll Bar     */
+/*****************************/
+
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
+    background: #cce0ff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #003380;
+    border-radius: 3px;
+}
+
+
+
+/***************************/
+/*     Overall Styling     */
+/***************************/
+
+* {
+    font-family: arial;
+}
+
+hr {
+    border: 1px solid #002966;
+}
+
+p {
+    font-size: 16px;
+}
+
+label {
+    font-size: 16px;
+}
+
+body {
+    background-color: #cce0ff;
+}
