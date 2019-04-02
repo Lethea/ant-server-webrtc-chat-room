@@ -85,6 +85,20 @@ Note
 -------------
 For proxy pass you can use nginx as well
 
+Features
+-------------
+- [x] Login 
+- [x] Dynamic Chat Room
+- [x] Text Chat
+- [x] Play / Publish Implementation
+- [x] PeerConnection / Icecandidate etc webrtc stuff implemented
+- [x] Text Chat
+- [ ] Token Play / Publish
+- [ ] External Player Link For Hls Playback
+- [ ] Typo Control
+- [ ] Test
+- [ ] Maybe Angular 2+ implementation will be good at client side
+
 
 Contact
 ------------
