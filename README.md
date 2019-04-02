@@ -1,7 +1,7 @@
 # ant-server-webrtc-chat-room
 This is n to n video chat room for ant media server. 
 
-This is webrtc group chat sample application  that using Ant Media Server as SFU
+It is a simple webrtc group chat application that using Ant Media Server as SFU
 
 ![Room Page](https://image.prntscr.com/image/v41IqySTTsiAFggs17OP4Q.png)
 
@@ -75,8 +75,8 @@ Login Page
 
 ![Login Page](https://image.prntscr.com/image/6WweoH9eRKe7t1UOe_uMhw.png)
 
-* Enter your nickname  (English Characters & Numbers without space Needed)
-* Enter your Room Name (English Characters & Numbers without space Needed)
+* Enter your nickname  (English Characters & Numbers without space required)
+* Enter your Room Name (English Characters & Numbers without space required)
 
 ![Room Page](https://image.prntscr.com/image/v41IqySTTsiAFggs17OP4Q.png)
 
