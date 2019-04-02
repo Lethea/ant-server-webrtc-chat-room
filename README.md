@@ -42,7 +42,7 @@ As you know, webrtc isn't allowed when the page is not safe ( https )
 
 Please install ssl to your ant server or proxy pass the request to the ant websocket 
 
-Change the ant media websocket url in _**nodeclientjs/assets/js/antapi.js**_ to your own
+Change the ant media websocket url in _**nodeclientjs/assets/js/antapi.js**_ with your own
 
 ```
 var wsURL = "wss://my_ant_server_ip/WebRTCAppEE/websocket";
